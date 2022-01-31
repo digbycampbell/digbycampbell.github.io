@@ -1,19 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>http://example.org/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <title>djc</title>
+    <link>https://digbycampbell.github.io/</link>
+    <description>Recent content on djc</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Feb 2022 09:38:33 +1300</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 01 Feb 2022 09:38:33 +1300</lastBuildDate><atom:link href="https://digbycampbell.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My First Post</title>
-      <link>http://example.org/posts/my-first-post/</link>
+      <title>Bitcoin 101</title>
+      <link>https://digbycampbell.github.io/posts/bitcoin101/</link>
       <pubDate>Tue, 01 Feb 2022 09:38:33 +1300</pubDate>
       
-      <guid>http://example.org/posts/my-first-post/</guid>
-      <description></description>
+      <guid>https://digbycampbell.github.io/posts/bitcoin101/</guid>
+      <description>Bitcoin is a piece of software which monitors and enables transactions between people who use the Bitcoin network.
+The software runs simultaneously on the thousands or millions of computers of people who choose to participate in this network. The Bitcoin software is uniquely able to establish consensus between people using the network, without requiring trust.
+The need for humans to transact facilitated the emergence of money, which is a technology with a long history of development.</description>
     </item>
     
   </channel>
