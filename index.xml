@@ -6,9 +6,19 @@
     <description>Recent content on djc</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Feb 2022 21:28:55 +1300</lastBuildDate><atom:link href="https://digbycampbell.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 02 Feb 2022 16:35:06 +1300</lastBuildDate><atom:link href="https://digbycampbell.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Using bitcoin as money</title>
+      <title>3 / Why Bitcoin</title>
+      <link>https://digbycampbell.github.io/posts/why-bitcoin/</link>
+      <pubDate>Wed, 02 Feb 2022 16:35:06 +1300</pubDate>
+      
+      <guid>https://digbycampbell.github.io/posts/why-bitcoin/</guid>
+      <description>Bitcoin is trying to be money, but why this is necessary, and why it should be valuable?
+If you are reading this, you probably live in a developed country whose financial system was designed in the 20th century, and has been relatively unchanged throughout your lifetime. Banks, financial institutions and governments in your country have always provided access to financial technology such as cheques, insurance, savings accounts, mortgages, credit checks, credit cards and debit cards.</description>
+    </item>
+    
+    <item>
+      <title>2 / Using bitcoin as money</title>
       <link>https://digbycampbell.github.io/posts/using-bitcoin/</link>
       <pubDate>Tue, 01 Feb 2022 21:28:55 +1300</pubDate>
       
@@ -19,7 +29,7 @@ When Andreas and Barry would like to conduct a transaction on the Bitcoin networ
     </item>
     
     <item>
-      <title>Bitcoin is software</title>
+      <title>1 / Bitcoin is software</title>
       <link>https://digbycampbell.github.io/posts/bitcoin-is-software/</link>
       <pubDate>Tue, 01 Feb 2022 09:38:33 +1300</pubDate>
       

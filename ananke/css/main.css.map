@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/Users/digbycampbell/git/hugo_blog",
+	"sourceRoot": "/Users/digbycampbell/git/blog",
 	"sources": [
 		"stdin"
 	],
