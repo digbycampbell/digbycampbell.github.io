@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Series on blog</title>
+    <link>https://digbycampbell.github.io/series/</link>
+    <description>Recent content in Series on blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 03 Feb 2022 08:36:23 +1300</lastBuildDate><atom:link href="https://digbycampbell.github.io/series/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bitcoin 101</title>
+      <link>https://digbycampbell.github.io/series/bitcoin-101/</link>
+      <pubDate>Thu, 03 Feb 2022 08:36:23 +1300</pubDate>
+      
+      <guid>https://digbycampbell.github.io/series/bitcoin-101/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

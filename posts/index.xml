@@ -1,20 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on djc</title>
+    <title>Posts on blog</title>
     <link>https://digbycampbell.github.io/posts/</link>
-    <description>Recent content in Posts on djc</description>
+    <description>Recent content in Posts on blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 02 Feb 2022 16:35:06 +1300</lastBuildDate><atom:link href="https://digbycampbell.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 03 Feb 2022 08:36:23 +1300</lastBuildDate><atom:link href="https://digbycampbell.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>4 / Is Bitcoin Safe</title>
+      <link>https://digbycampbell.github.io/posts/is-bitcoin-safe/</link>
+      <pubDate>Thu, 03 Feb 2022 08:36:23 +1300</pubDate>
+      
+      <guid>https://digbycampbell.github.io/posts/is-bitcoin-safe/</guid>
+      <description>Dishonest actors on the Bitcoin network could try to rewrite the ledger so that they have more bitcoin.
+The Bitcoin software relies on cryptography to protect the ledger. The designer of bitcoin chose trusted cryptography techniques, and combined them in a creative way to build a security system.
+One of the main principles implemented is Proof of Work, a system which forces members of the network to spend computing power to compete for the right to write transactions to the ledger.</description>
+    </item>
+    
     <item>
       <title>3 / Why Bitcoin</title>
       <link>https://digbycampbell.github.io/posts/why-bitcoin/</link>
       <pubDate>Wed, 02 Feb 2022 16:35:06 +1300</pubDate>
       
       <guid>https://digbycampbell.github.io/posts/why-bitcoin/</guid>
-      <description>Bitcoin is trying to be money, but why this is necessary, and why it should be valuable?
-If you are reading this, you probably live in a developed country whose financial system was designed in the 20th century, and has been relatively unchanged throughout your lifetime. Banks, financial institutions and governments in your country have always provided access to financial technology such as cheques, insurance, savings accounts, mortgages, credit checks, credit cards and debit cards.</description>
+      <description>If you are reading this, you probably live in a developed country whose financial system was designed in the 20th century, and has been relatively unchanged throughout your lifetime. Banks, financial institutions and governments in your country (in your lifetime) have always provided access to financial technology such as cheques, insurance, savings accounts, mortgages, credit checks, credit cards and debit cards.
+This is not the case for as many as 2.</description>
     </item>
     
     <item>
@@ -23,8 +34,8 @@ If you are reading this, you probably live in a developed country whose financia
       <pubDate>Tue, 01 Feb 2022 21:28:55 +1300</pubDate>
       
       <guid>https://digbycampbell.github.io/posts/using-bitcoin/</guid>
-      <description>Bitcoin is just a ledger of transactions between participants on the network.
-Bitcoin was designed to be used as money, but a bitcoin transaction and the bitcoin network is independent from existing money and our financial and banking systems.
+      <description>Bitcoin keeps a ledger of transactions between participants on the Bitcoin network.
+The Bitcoin ledger was designed to be used as money, but a bitcoin transaction and the bitcoin network is independent from existing money and our financial and banking systems.
 When Andreas and Barry would like to conduct a transaction on the Bitcoin network, Andreas sends bitcoin from his address to Barry&amp;rsquo;s address, and the transaction is denominated in bitcoin units (BTC).</description>
     </item>
     
