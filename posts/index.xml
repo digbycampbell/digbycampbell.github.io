@@ -6,7 +6,29 @@
     <description>Recent content in Posts on blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 03 Feb 2022 08:36:23 +1300</lastBuildDate><atom:link href="https://digbycampbell.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 21 Feb 2022 08:45:06 +1300</lastBuildDate><atom:link href="https://digbycampbell.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>6 / Who invented bitcoin?</title>
+      <link>https://digbycampbell.github.io/posts/satoshi/</link>
+      <pubDate>Mon, 21 Feb 2022 08:45:06 +1300</pubDate>
+      
+      <guid>https://digbycampbell.github.io/posts/satoshi/</guid>
+      <description>On the 18th August 2018, an individual or group who called themselves Satoshi Nakamoto registered the domain name bitcoin.org, and created a website.
+This pseudonym was used from then on and is credited as the author of the bitcoin white paper, and the first release of the bitcoin software.
+Satoshi continued to interact with other developers and the bitcoin community until 2010 when his pseudonym ceased to be active online in the community, and he handed over control of the bitcoin software and website.</description>
+    </item>
+    
+    <item>
+      <title>5 / Can I buy things with bitcoin?</title>
+      <link>https://digbycampbell.github.io/posts/buy-with-bitcoin/</link>
+      <pubDate>Mon, 21 Feb 2022 08:37:50 +1300</pubDate>
+      
+      <guid>https://digbycampbell.github.io/posts/buy-with-bitcoin/</guid>
+      <description>If you try to pay for something using bitcoin the merchant may or may not accept it, as is their choice.
+Bitcoin is still a new technology, and only a small number of people know about it or use it. Many people are skeptical and don’t think it has value.
+As more and more people become willing to accept bitcoin for goods and services, the more likely you will be able to spend it.</description>
+    </item>
+    
     <item>
       <title>4 / Is Bitcoin Safe</title>
       <link>https://digbycampbell.github.io/posts/is-bitcoin-safe/</link>
