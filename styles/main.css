@@ -19,9 +19,20 @@
 
 }
 
+#email {
+   margin: 20px 47% 0 45.5%;
+   font-family: 'Source Serif Pro', serif;
+   font-size: medium;
+}
+
 .center {
    display: block;
    margin-left: auto;
    margin-right: auto;
    width: 50%;
+ }
+
+ a {
+   color: black;
+   text-decoration:none
  }
