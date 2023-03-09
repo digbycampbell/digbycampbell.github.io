@@ -1,0 +1,27 @@
+/* Import fonts */
+
+
+@import url('https://fonts.googleapis.com/css2?family=Source+Serif+Pro:wght@300&display=swap');
+
+  body {
+   background: #3FC1AA;
+}
+
+#logo {
+   max-width: 100%;
+   margin-top: 100px;
+}
+
+#tagline {
+   margin: 50px 45% 0 45%;
+   font-family: 'Source Serif Pro', serif;
+   font-size: xx-large;
+
+}
+
+.center {
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   width: 50%;
+ }
