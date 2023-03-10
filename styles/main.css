@@ -1,28 +1,16 @@
 /* Import fonts */
 
-
 @import url('https://fonts.googleapis.com/css2?family=Source+Serif+Pro:wght@300&display=swap');
 
   body {
    background: #3FC1AA;
+   font-family: 'Source Serif Pro', serif;
+
 }
 
 #logo {
    max-width: 100%;
    margin-top: 100px;
-}
-
-#tagline {
-   margin: 50px 45% 0 45%;
-   font-family: 'Source Serif Pro', serif;
-   font-size: xx-large;
-
-}
-
-#email {
-   margin: 20px 47% 0 45.5%;
-   font-family: 'Source Serif Pro', serif;
-   font-size: medium;
 }
 
 .center {
@@ -31,6 +19,22 @@
    margin-right: auto;
    width: 50%;
  }
+
+#tagline {
+   margin: 50px 0 0 0;
+   display: flex;
+   width: 100%;
+   justify-content: center;
+   font-size: 4vh;
+}
+
+#email {
+   margin: 20px 0 0 0;
+   display: flex;
+   width: 100%;
+   justify-content: center;
+   font-size: 2vh;
+}
 
  a {
    color: black;
